@@ -5,4 +5,5 @@
 3. Callback, promise, async, await
 4. Eye rolling
 5. Watercolor painting
+6. Duck Hunt
 ```
