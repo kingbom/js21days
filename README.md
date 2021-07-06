@@ -7,4 +7,5 @@
 5. Watercolor painting
 6. Duck Hunt
 7. Konami Code 
+8. How to using this in javascript
 ```
