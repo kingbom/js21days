@@ -3,8 +3,9 @@
   const onScroll = () => {
     const moonElem = document.querySelector(".moon");
     const wishElem = document.querySelector(".wish");
-    moonElem.style.transform = `translate(${window.scrollY * 0.7}%, ${window.scrollY * -0.7}%)`;
-    wishElem.style.transform = `translateY(${window.scrollY * -1.2}%)`;
+    const windowScrollY = window.scrollY;
+    moonElem.style.transform = `translate(${windowScrollY * 0.7}%, ${windowScrollY * -0.7}%)`;
+    wishElem.style.transform = `translateY(${windowScrollY * -1.2}%)`;
   }
 
   const run = () => {
