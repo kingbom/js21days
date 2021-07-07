@@ -8,4 +8,5 @@
 6. Duck Hunt
 7. Konami Code 
 8. How to using this in javascript
+9. Parallax Scrolling
 ```
