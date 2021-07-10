@@ -10,4 +10,5 @@
 8.  How to using this in javascript
 9.  Parallax Scrolling
 10. Kanban Board
+11. Text Reveal
 ```
