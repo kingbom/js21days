@@ -11,5 +11,5 @@
 9.  Parallax Scrolling
 10. Kanban Board
 11. Text Reveal
-12.
+12. Air Quality Visualizer
 ```
