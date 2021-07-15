@@ -1,6 +1,5 @@
 # Javascript 21 days
 ```
-
 1.  Falling snow canvase
 2.  Countdown time
 3.  Callback, promise, async, await
@@ -15,5 +14,4 @@
 12. Air Quality Visualizer
 13. NaN, Type Coercion, Interpreter & Compiler, Checking Object Type
 14.
-
 ```
