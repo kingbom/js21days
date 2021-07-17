@@ -13,5 +13,5 @@
 11. Text Reveal
 12. Air Quality Visualizer
 13. NaN, Type Coercion, Interpreter & Compiler, Checking Object Type
-14. 
+14.
 ```
