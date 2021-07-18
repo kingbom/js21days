@@ -1,0 +1,48 @@
+body {
+  background: #a64e6d;
+  box-shadow: -100vw 0 0 100vw #a64e6d;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    background-color: #ebecf0;
+    border-radius: 10px;
+    width: 20vw;
+    height: 50vh;
+    margin: auto;
+}
+
+img {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+.cover {
+    margin-top: 10%;
+    margin-left: 40%;
+}
+
+.music {
+}
+
+.play,
+.pause {
+    outline: none;
+    border: none;
+
+    cursor: pointer;
+
+    width: 20px;
+    height: 20px;
+    margin-top: 10%;
+}
+
+.pause {
+    background: url("./pause.png") 0 0 / contain no-repeat;
+}
+
+.play {
+    background: url("./play.png") 0 0 / contain no-repeat;
+}
