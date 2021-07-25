@@ -19,5 +19,6 @@
 17. Speech to Text
 18. What is Prototype
 19. Autocomplete
-20. Form Validation  
+20. Form Validation 
+21. Infinite Scroll Gallery
 ```
